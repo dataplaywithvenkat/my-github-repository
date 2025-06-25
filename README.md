@@ -19,8 +19,15 @@ It is a library for the Python programming language, adding support for large, m
 ------------------------------------------- 
 
 ```sql
-print('hellow world')
+print('hello world')
 ```
+
+```sql 
+Select *
+
+everyone
+```
+
 
 
 |Attendies|Linkedin Profile|
